@@ -17,8 +17,8 @@ This project takes the parameters of an used car like: Company name, Model name,
 
 ## working ?
 
-1. data was scraped from 
-Link for data: (https://raw.githubusercontent.com/amankharwal/Website-data/master/CarPrice.csv)
+1. Data was scraped from this
+link for data: (https://raw.githubusercontent.com/amankharwal/Website-data/master/CarPrice.csv)
 
 2. The data was cleaned (it was super unclean :( ) and analysed.
 
